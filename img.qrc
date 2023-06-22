@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/add.png</file>
+        <file>img/addrow.png</file>
+        <file>img/clear.png</file>
+        <file>img/coins.png</file>
+        <file>img/database.png</file>
+        <file>img/db.ico</file>
+        <file>img/deleterow.png</file>
+        <file>img/dollars.png</file>
+        <file>img/editor.png</file>
+        <file>img/editrow.png</file>
+        <file>img/filter.png</file>
+        <file>img/find.png</file>
+        <file>img/findf.png</file>
+        <file>img/firebird.ico</file>
+        <file>img/firebird-logo.png</file>
+        <file>img/help.png</file>
+        <file>img/HelpBook.png</file>
+        <file>img/key.png</file>
+        <file>img/print.png</file>
+        <file>img/profile.png</file>
+        <file>img/query.png</file>
+        <file>img/Querys.png</file>
+        <file>img/refresh.png</file>
+        <file>img/remove.png</file>
+        <file>img/report.png</file>
+        <file>img/Reports.png</file>
+        <file>img/Table.png</file>
+        <file>img/update.png</file>
+        <file>img/hotels.png</file>
+        <file>img/item.png</file>
+        <file>img/keys.png</file>
+        <file>img/pay.png</file>
+        <file>img/registrationx.png</file>
+        <file>img/player_play.png</file>
+        <file>img/printer.png</file>
+        <file>img/info.png</file>
+        <file>img/Quit.png</file>
+        <file>img/Document.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+*.pro.user
+*.a
+*.dll
+*.exe
+*.db
+/limereport/
+
